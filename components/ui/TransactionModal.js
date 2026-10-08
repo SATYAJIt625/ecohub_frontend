@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { transactionsAPI } from '@/lib/api';
 import { Modal, Button, Input, Select, Textarea, Alert } from '@/components/ui';
-import { Transaction } from '@/models/Transaction';
+// import { Transaction } from '@/models/Transaction';
 
 const CATEGORIES = [
   'food','events','maintenance','equipment','travel',
