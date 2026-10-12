@@ -1,0 +1,3 @@
+# EcoHub Robots.txt
+User-agent: *
+Allow: /
